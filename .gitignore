@@ -2,7 +2,7 @@
 201908-citibike-tripdata.csv
 convert an integer datatype to a datetime .ipynb
 citibike-tripdata.csv
-DS_Store
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
